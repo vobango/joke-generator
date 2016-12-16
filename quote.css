@@ -37,6 +37,8 @@ p {
 .slideInRight {
   -webkit-animation: slideInRight 1.2s cubic-bezier(0.15, 0.68, 0.57, 1.14);
   animation: slideInRight 1.2s cubic-bezier(0.15, 0.68, 0.57, 1.14);
+  -webkit-animation-delay: 0.1s;
+  animation-delay: 0.1s;
 }
 .buttons {
   width: 100%;
